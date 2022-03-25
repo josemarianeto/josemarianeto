@@ -1,6 +1,6 @@
 ### Olá Pessoas, Eu sou o José Maria 🤓
 
-- 🚀 Trabalhando com Desenvolvimento de Software com C#(Desktop e Asp .Net) e ReactJS.
+- 🚀 Trabalhando com Desenvolvimento de Software com .Net. 
 - 🌱 Estudando Desenvolvimento Mobile (React Native).
 - 📫 Contato no Email: netomelosantana@gmail.com .
 
